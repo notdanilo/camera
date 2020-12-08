@@ -3,6 +3,11 @@ name = "camera"
 version = "0.1.0"
 authors = ["Danilo Guanabara <danguafer@gmail.com>"]
 edition = "2018"
+license = "Apache-2.0"
+description = "A camera library"
+documentation = "https://docs.rs/camera"
+repository = "https://github.com/notdanilo/camera"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
